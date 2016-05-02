@@ -1,3 +1,7 @@
+# Deprecated
+
+建议直接使用[Retrofit](https://github.com/square/retrofit)
+
 # RxOkHttp
 
 基于RxJava+OkHttp整合的Android异步Http封装库.
